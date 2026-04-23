@@ -74,7 +74,6 @@ void reverseQueue(Queue* q) {
 
         int val = pop(&temp);
         enqueue(q,val);
-
     }
 
 }
